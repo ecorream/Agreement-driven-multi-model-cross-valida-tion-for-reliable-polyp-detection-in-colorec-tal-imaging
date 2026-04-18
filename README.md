@@ -1,0 +1,2 @@
+# Agreement-driven-multi-model-cross-valida-tion-for-reliable-polyp-detection-in-colorec-tal-imaging
+The project presents a cross-validation framework for colorectal polyp detection and segmentation using multiple deep learning models:UNet, YOLOv8, PraNet, and Polyp-PVT.  The system evaluates each model and combines their outputs through consensus (AND, OR, and majority voting) to identify regions of interest with higher diagnostic confidence. 
