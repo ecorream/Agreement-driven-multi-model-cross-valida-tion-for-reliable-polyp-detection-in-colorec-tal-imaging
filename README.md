@@ -191,11 +191,11 @@ Run notebooks:
 - `1 → 4`
 
 ### Step 2 – Place Weights
-Ensure all weights are inside the folder
+Ensure all weights are inside the folder (by default the code load the trained weigths)
 
 
 ### Step 3 – Run Cross-Validation
-Run: '5.Cross_Validation_4Models.ipynb'
+Run: `5.Cross_Validation_4Models.ipynb`
 
 ---
 
@@ -220,7 +220,7 @@ Run: '5.Cross_Validation_4Models.ipynb'
 
 ## Author
 
-Emmanuel Correa  
+Emmanuel Correa Morales
 MSc Engineering Technology  
-PHD robotics Technology
+PhD Robotics Technology
 
